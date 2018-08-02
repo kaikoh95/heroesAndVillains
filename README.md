@@ -1,6 +1,10 @@
 # heroesAndVillains
 Simple 2d click game written in Java 
 
+(This game is created for the purpose of University of Canterbury SENG201's assignment
+and is not meant to be monetized. Credits are attributed to the respective websites and 
+authors that have created/illustrated them.)
+
 Created by: Blue and Kai
 
 To build the file, all files in src need to be set as source file
